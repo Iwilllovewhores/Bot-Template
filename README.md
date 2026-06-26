@@ -12,22 +12,6 @@ Um bot para Discord desenvolvido com Discord.js v14, focado em fornecer funçõe
 - Estrutura pronta para expansão
 
 ---
-
-## 📁 Estrutura do Projeto
-
-Bot-functions/
-├── src/
-│   ├── Commands/
-│   ├── Events/
-│   ├── Components/
-│   ├── Functions/
-│   └── index.js
-├── .env
-├── package.json
-└── README.md
-
----
-
 ## ⚙️ Instalação
 
 git clone https://github.com/Iwilllovewhores/Bot-functions.git
