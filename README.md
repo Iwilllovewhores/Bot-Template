@@ -14,7 +14,7 @@ Um bot para Discord desenvolvido com Discord.js v14, focado em fornecer funçõe
 ---
 ## ⚙️ Instalação
 
-git clone https://github.com/Iwilllovewhores/Bot-functions.git
+git clone https://github.com/Iwilllovewhores/Bot-functions
 cd Bot-functions
 npm install
 
